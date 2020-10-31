@@ -1,2 +1,5 @@
-# perceptron
-perceptron implementation
+# Perceptron
+
+Classifiers using perceptron:
+
+- OR problem
